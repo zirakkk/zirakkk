@@ -1,7 +1,7 @@
 ### 👋 About Me
-I'm a PhD student and Research Assistant at [VCPL](https://www.cs.uga.edu/research/lab/visual-and-parallel-computing-lab-vpcl) (University of Georgia), and a Research Affiliate at [USDA-ARS](https://www.ars.usda.gov/) . I'm interested in Efficient Deep Learning (a.k.a. Model Compression) and Computer Vision.
+I'm a PhD student and Research Assistant at [VCPL](https://www.cs.uga.edu/research/lab/visual-and-parallel-computing-lab-vpcl) (University of Georgia), and a Research Affiliate at [USDA-ARS](https://www.ars.usda.gov/) . I'm interested in Efficient Deep Learning (a.k.a. Model Compression), Computer Vision and HyperSpectral Imaging.
 
-- 🔬 I’m currently working on Exploring Efficient Deep Learning and Hyperspectral Imaging for Food Safety
+- 🔬 I’m currently working on Efficient Vision Transformers and Hyperspectral Imaging for Food Safety.
 - ⚡ Sports enthusiast and enjoy playing Counter-Strike with friends.
 - 📫 How to reach me:  [Zirak.Khan@uga.edu](mailto:Zirak.Khan@uga.edu)
 
